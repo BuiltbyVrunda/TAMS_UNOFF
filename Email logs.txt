@@ -1,0 +1,131 @@
+From: vishal.dey@sati.edu
+To: zoya.fernandez@sati.edu
+Subject: Lab Software Update
+Date: 20 Mar 2024, 08:15 AM
+
+From: zoya.fernandez@sati.edu
+To: sahil.wadhwa@sati.edu
+Subject: Request for New Hardware Specs
+Date: 20 Mar 2024, 09:00 AM
+
+From: arjun.jain@sati.edu
+To: vishal.dey@sati.edu
+Subject: Approval Needed for Security Budget
+Date: 20 Mar 2024, 09:45 AM
+
+From: sahil.wadhwa@sati.edu
+To: zoya.fernandez@sati.edu
+Subject: System Vulnerability Findings
+Date: 21 Mar 2024, 10:30 AM
+
+From: zoya.fernandez@sati.edu
+To: arjun.jain@sati.edu
+Subject: Request for Lab Access Extension
+Date: 21 Mar 2024, 11:00 AM
+
+From: vishal.dey@sati.edu
+To: sahil.wadhwa@sati.edu
+Subject: IT Infrastructure Status Report
+Date: 21 Mar 2024, 01:15 PM
+
+From: arjun.jain@sati.edu
+To: zoya.fernandez@sati.edu, vishal.dey@sati.edu
+Subject: Urgent: Power Circuit Inspection
+Date: 22 Mar 2024, 08:00 AM
+
+From: sahil.wadhwa@sati.edu
+To: vishal.dey@sati.edu
+Subject: Encryption Protocol Update
+Date: 22 Mar 2024, 09:20 AM
+
+From: zoya.fernandez@sati.edu
+To: sahil.wadhwa@sati.edu
+Subject: Blade Handle Design Files
+Date: 23 Mar 2024, 10:00 AM
+
+From: vishal.dey@sati.edu
+To: arjun.jain@sati.edu
+Subject: Incident Follow-up Meeting
+Date: 23 Mar 2024, 12:00 PM
+
+From: arjun.jain@sati.edu
+To: sahil.wadhwa@sati.edu
+Subject: Clarification on Curfew Violation
+Date: 24 Mar 2024, 07:30 AM
+
+From: sahil.wadhwa@sati.edu
+To: zoya.fernandez@sati.edu, vishal.dey@sati.edu
+Subject: Encrypted Data Transfer Confirmation
+Date: 24 Mar 2024, 09:45 AM
+
+From: zoya.fernandez@sati.edu
+To: arjun.jain@sati.edu
+Subject: Follow-up on Suppressed Complaints
+Date: 25 Mar 2024, 08:25 AM
+
+From: vishal.dey@sati.edu
+To: sahil.wadhwa@sati.edu
+Subject: Database Access Logs Request
+Date: 25 Mar 2024, 10:15 AM
+
+From: arjun.jain@sati.edu
+To: zoya.fernandez@sati.edu
+Subject: Financial Transaction Audit
+Date: 26 Mar 2024, 11:00 AM
+
+From: sahil.wadhwa@sati.edu
+To: vishal.dey@sati.edu
+Subject: Request: System Patch Schedule
+Date: 26 Mar 2024, 02:10 PM
+
+From: zoya.fernandez@sati.edu
+To: vishal.dey@sati.edu
+Subject: Deleted File Recovery Status
+Date: 27 Mar 2024, 08:45 AM
+
+From: vishal.dey@sati.edu
+To: arjun.jain@sati.edu
+Subject: Lab Safety Protocols Revision
+Date: 27 Mar 2024, 11:30 AM
+
+From: arjun.jain@sati.edu
+To: sahil.wadhwa@sati.edu
+Subject: Confirmation: Emergency Exit Access
+Date: 28 Mar 2024, 07:50 AM
+
+From: sahil.wadhwa@sati.edu
+To: zoya.fernandez@sati.edu
+Subject: Meeting Summary and Next Steps
+Date: 28 Mar 2024, 09:00 AM
+
+From: zoya.fernandez@sati.edu
+To: sahil.wadhwa@sati.edu, vishal.dey@sati.edu
+Subject: Research on Cybersecurity Trends
+Date: 29 Mar 2024, 10:00 AM
+
+From: vishal.dey@sati.edu
+To: zoya.fernandez@sati.edu
+Subject: Network Downtime Notification
+Date: 29 Mar 2024, 03:00 PM
+
+From: arjun.jain@sati.edu
+To: zoya.fernandez@sati.edu
+Subject: Facilities Maintenance Schedule
+Date: 30 Mar 2024, 08:30 AM
+
+From: sahil.wadhwa@sati.edu
+To: vishal.dey@sati.edu
+Subject: Inquiry: Backup System Status
+Date: 30 Mar 2024, 11:45 AM
+
+From: zoya.fernandez@sati.edu
+To: arjun.jain@sati.edu, sahil.wadhwa@sati.edu
+Subject: Proposal: Extended Lab Hours
+Date: 31 Mar 2024, 07:15 AM
+
+Email from Aarav Khanna to Sahil Wadhwa (two days before incident)
+
+From: aarav.khanna@email.com
+To: sahil.wadhwa@sati.edu
+Subject: Urgent: Need Your Help with System Probe
+Date: 12 Feb 2024, 4:30 PM
