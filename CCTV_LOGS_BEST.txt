@@ -1,0 +1,83 @@
+10 Mar 2024 | 07:45 AM | Principal Arjun Jain | Entry | Main Entrance | Arrived early for inspection
+
+10 Mar 2024 | 07:50 AM | Zoya Fernandez | Entry | Side Entrance | Carried a laptop bag
+
+10 Mar 2024 | 08:12 AM | Dr. Vishal Dey | Entry | Main Entrance | Wearing ID badge
+
+10 Mar 2024 | 11:30 PM | Sahil Wadhwa | Entry | Student Entrance | Late night entry after curfew
+
+10 Mar 2024 | 11:55 PM | Sahil Wadhwa | Exit | Student Entrance | Left quickly, suspicious timing
+
+11 Mar 2024 | 02:00 AM | Zoya Fernandez | Entry | Side Entrance | Unauthorized late entry, no exit logged
+
+11 Mar 2024 | 08:05 AM | Dr. Vishal Dey | Entry | Main Entrance | On time arrival
+
+11 Mar 2024 | 09:45 AM | Aarav Khanna | Entry | Computer Science Lab B | Entered alone with backpack
+
+11 Mar 2024 | 11:20 AM | Sahil Wadhwa | Entry | Student Entrance | Returned briefly
+
+11 Mar 2024 | 11:40 AM | Sahil Wadhwa | Exit | Student Entrance | Left quickly
+
+12 Mar 2024 | 07:00 AM | Zoya Fernandez | Entry | Side Entrance | Early arrival
+
+12 Mar 2024 | 08:15 AM | Principal Arjun Jain | Entry | Main Entrance | Normal arrival
+
+12 Mar 2024 | 09:00 AM | Aarav Khanna | Entry | Computer Science Lab B | Present in the lab
+
+12 Mar 2024 | 12:30 PM | Sahil Wadhwa | Entry | Student Entrance | Normal entry
+
+12 Mar 2024 | 09:30 PM | Sahil Wadhwa | Exit | Student Entrance | Late exit, after curfew
+
+12 Mar 2024 | 09:45 PM | Zoya Fernandez | Exit | Side Entrance | Left late without prior entry record
+
+13 Mar 2024 | 01:45 AM | Dr. Vishal Dey | Entry | Main Entrance | Late night unscheduled entry
+
+13 Mar 2024 | 03:00 AM | Dr. Vishal Dey | Exit | Main Entrance | Left after short stay
+
+13 Mar 2024 | 08:35 AM | Principal Arjun Jain | Entry | Main Entrance | Morning check-in
+
+13 Mar 2024 | 09:00 AM | Zoya Fernandez | Entry | Side Entrance | On time arrival
+
+13 Mar 2024 | 04:30 PM | Sahil Wadhwa | Exit | Student Entrance | Evening exit
+
+Microphone Recording:
+
+12 Mar 2024 | 11:59 PM | - | Microphone Recording Start | Computer Science Lab B |
+
+Sounds captured (approx. 3 minutes):
+
+Faint hum of lab equipment powering on
+
+Occasional tapping sounds, possibly keyboard or tools
+
+Whispered voices, indistinct but tense, male and female tones
+
+Muffled footsteps moving towards and away from the microphone
+
+Sudden clatter of an object falling — metal or glass impact
+
+Abrupt breathing, sounds of struggle with faint grunts
+
+Whispered phrase, possibly: "You shouldn’t have come here"
+
+Pause, then faint scratching noise, like fingernails on surface
+
+Low rustling, maybe fabric or papers shifting rapidly
+
+Another muffled grunt, followed by a sudden loud bang against a hard surface
+
+Sound of footsteps retreating, pacing back and forth rapidly
+
+Tense silence, broken by a faint electronic buzzing noise (nearby device?)
+
+Faint repeated beeps, irregular intervals (could be a timer or alert)
+
+Ambiguous spoken word, syllables unclear, possibly a name or code
+
+13 Mar 2024 | 12:02 AM | - | Microphone Recording End | Computer Science Lab B |
+Recordings end abruptly - sudden silence detected
+
+13 Mar 2024 | 12:03 AM | - | Morse Code Detected | Computer Science Lab B |
+
+Detected morse code signals received:
+"... --- ..."
